@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidApp/LiquidMusic/settings.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 335,
+          "line": 17
+        },
+        "start": {
+          "column": 15,
+          "index": 335,
+          "line": 17
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidApp/LiquidMusic/settings.gradle.kts"
+}
